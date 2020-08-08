@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
             
 <p float="left"> 
- 
+ <a href="https://www.linkedin.com/in/shreyasredij/">
   <img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/python.png" height="30" hspace="10" style="max-width:100%;">
-  
+ </a>
   
 <img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/numpy.png" height="30" hspace="10"   style="max-width:100%;">
 
