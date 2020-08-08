@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 
+<div style="float: left;>
+            
 <p style="float:left">
   
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/python.png"><img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/python.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
@@ -53,6 +55,7 @@ Here are some ideas to get you started:
 <br>
 
 </p>
+</div>
 
 
 <!--
