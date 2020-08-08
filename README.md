@@ -19,7 +19,8 @@ Here are some ideas to get you started:
   
   
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/numpy.png"><img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/numpy.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
-
+</div>
+</p>
 
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/pytorch.png"><img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/pytorch.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
@@ -46,8 +47,7 @@ Here are some ideas to get you started:
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/sql.png"><img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/sql.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
 <br>
-</div>
-</p>
+
 
 
 
