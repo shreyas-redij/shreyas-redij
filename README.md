@@ -23,29 +23,29 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/pytorch.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/pytorch.png" height="30" style="max-width:100%;">
 
-<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/scikit.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/scikit.png" height="30" style="max-width:100%;">
 
-<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/keras.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/keras.png" height="30" style="max-width:100%;">
 
-<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/tensorflow.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/tensorflow.png" height="30" style="max-width:100%;">
 
 
 
-<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/github.svg" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/github.svg" height="30" style="max-width:100%;">
 
-<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/pycharm.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/pycharm.png" height="30" style="max-width:100%;">
 
-<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/jupyter.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/jupyter.png" height="30" style="max-width:100%;">
 
-<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/bash.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/bash.png" height="30" style="max-width:100%;">
 
-<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/aws.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/aws.png" height="30" style="max-width:100%;">
 
-<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/cloud.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/cloud.png" height="30" style="max-width:100%;">
 
-<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/sql.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/sql.png" height="30" style="max-width:100%;">
 <br>
 
 </p>
