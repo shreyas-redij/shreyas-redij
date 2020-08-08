@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
             
-<p style="float:left"> 
+<p float="left"> 
  
   <img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/python.png" height="30" style="max-width:100%;">&nbsp;&nbsp;&nbsp;
   
