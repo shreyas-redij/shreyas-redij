@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/python.png"><img src="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/python.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
   
+  
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/numpy.png"><img src="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/numpy.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
 
 <!--
