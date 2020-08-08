@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <!--
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/opencv.png"><img src="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/opencv.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp; -->
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/pytorch.png"><img src="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/pytorch.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/pytorch.png"><img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/pytorch.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/scikit.png"><img src="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/scikit.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/keras.png"><img src="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/keras.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
