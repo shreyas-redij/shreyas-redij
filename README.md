@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/nikunjlad/nikunjlad/blob/master/assets/sql.png"><img src="https://github.com/nikunjlad/nikunjlad/raw/master/assets/sql.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
 <br></p>
 
-![alt text](https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/python.png?raw=true)
 
 <!--
 **shreyas-redij/shreyas-redij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
