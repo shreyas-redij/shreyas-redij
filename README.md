@@ -11,15 +11,15 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/python.png"><img src="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/python.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/python.png"><img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/python.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
   
   
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/numpy.png"><img src="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/numpy.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/numpy.png"><img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/numpy.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
 
 <!--
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/opencv.png"><img src="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/opencv.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp; -->
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/pytorch.png"><img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/pytorch.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/pytorch.png"><img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/pytorch.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/scikit.png"><img src="https://github.com/shreyas-redij/shreyas-redij/tree/master/assets/scikit.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
 
