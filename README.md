@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 
 
             
-<p style="float:left">
-  <div>
+<!--<p style="float:left"> -->
+  <div style="float:left">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/python.png"><img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/python.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
   
   
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/numpy.png"><img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/numpy.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
 </div>
-</p>
+<!--</p> -->
 
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/pytorch.png"><img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/pytorch.png" height="30" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
