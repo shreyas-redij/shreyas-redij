@@ -9,6 +9,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Vision and Machine learning 
 - 👯 I’m looking to collaborate on Computer Vision related Projects.
 
+### Connect with me:
+<p float="left"> 
+ <img src="https://github.com/shreyas-redij/shreyas-redij/blob/master/assets/Linkedin.png" height="30" hspace="10" style="max-width:100%;">
+
 ### Languages and Tools
 
 
